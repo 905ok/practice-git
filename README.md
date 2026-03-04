@@ -16,7 +16,7 @@
 * Git Cheat Sheet [https://www.atlassian.com/git/tutorials/atlassian-git-cheatsheet](https://www.atlassian.com/git/tutorials/atlassian-git-cheatsheet)
 
 
-Welcome to my practice git repository where you can eff up as much as you'd like plus work with a real, living, breathing person on the other side.
+Welcome to my practice git repository where you can mess up as much as you'd like plus work with a real, living, breathing person on the other side.
 Here we learn all things git. Feel free to send me Pull Requests just to discover what it's like when a Repo Master asks you
 
 <blockquote>
